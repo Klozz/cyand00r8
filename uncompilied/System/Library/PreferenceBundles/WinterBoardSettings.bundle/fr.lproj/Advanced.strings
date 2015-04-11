@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PNGOPTI</key>
+	   <string>Thèmes pour optimiser la vitesse.</string>
+	<key>OPTI</key>
+	   <string>Optimiser Thèmes</string>
+	<key>DEBUGG_LOG</key>
+	   <string>Décharges informations à syslog.</string>
+	<key>DEBUG</key>
+	   <string>Debug Loggin/string>
+	<key>UILOG</key>
+	   <string>Tous UIImages qui ne sont pas chauds auront enregistrés en tant que fichiers PNG dans le répertoire / tmp / UIImages.</string>
+    <key>RECUI</key>
+	   <string>Enregistrez interface utilisateur Images</string>
+    <key>ADVA</key>
+	   <string>Avancé</string>
+</dict>
+</plist>

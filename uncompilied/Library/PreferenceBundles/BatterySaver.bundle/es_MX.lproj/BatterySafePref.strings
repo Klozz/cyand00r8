@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>TITLE</key>
+	   <string>Battery Saver</string>
+	<key>ENABLE</key>
+	   <string>Activar</string> 
+	<key>PERCENTAGE</key>
+	   <string>Nivel de Bateria</string> 
+    <key>TURN_OFF_ACTIVATED</key>
+	   <string>Apagar al activarse Battery Saver</string> 
+    <key>BRIGHT</key>
+	   <string>Nivel de brillo al activarse Battery Saver</string> 
+    <key>SET_BRIGHT</key>
+	   <string>Nivel de Brillo</string> 
+</dict>
+</plist>

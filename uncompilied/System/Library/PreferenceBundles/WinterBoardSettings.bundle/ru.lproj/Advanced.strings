@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PNGOPTI</key>
+	   <string>Оптимизация графики для более высокой скоростью.</string>
+	<key>OPTI</key>
+	   <string>Оптимизация тему</string>
+	<key>DEBUGG_LOG</key>
+	   <string>Самосвал данные в журнал.</string>
+	<key>DEBUG</key>
+	   <string>Oчищение</string>
+	<key>UILOG</key>
+	   <string>Сохраняет все образы GUI в / TMP / UIImages.</string>
+    <key>RECUI</key>
+	   <string>Сохранить GUI</string>
+    <key>ADVA</key>
+	   <string>продвинутый</string>
+</dict>
+</plist>

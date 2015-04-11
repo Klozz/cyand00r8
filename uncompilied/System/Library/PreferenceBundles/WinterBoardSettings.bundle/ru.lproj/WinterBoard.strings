@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DRAG_THEME</key>
+	   <string>Выберите элементы, которые вы хотите, и расположить их в порядке приоритетности.</string>
+	<key>SELECT_THEME</key>
+	   <string>Seleccionar Temas</string>
+	<key>COMPA</key>
+	   <string>Выберите темы.</string>
+	<key>COMPA_THEME</key>
+	   <string>Режим совместимости</string>
+    <key>ADVANCE</key>
+	   <string>Управление настройками сложные темы.</string>
+	<key>ADVANCE_THEME</key>
+	   <string>продвинутый</string>
+    <key>TITLE_X</key>
+	   <string>темы</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PNGOPTI</key>
+	   <string>Optimizar los graficos para mayor velocidad.</string>
+	<key>OPTI</key>
+	   <string>Optimizar tema</string>
+	<key>DEBUGG_LOG</key>
+	   <string>Vuelca los datos obtenidos al syslog.</string>
+	<key>DEBUG</key>
+	   <string>Depuracion</string>
+	<key>UILOG</key>
+	   <string>Guarda todas las imagenes de la GUI en /tmp/UIImages.</string>
+    <key>RECUI</key>
+	   <string>Guardar GUI</string>
+    <key>ADVA</key>
+	   <string>Avanzado</string>
+</dict>
+</plist>

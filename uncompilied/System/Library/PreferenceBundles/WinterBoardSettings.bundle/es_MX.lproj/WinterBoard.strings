@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DRAG_THEME</key>
+	   <string>Selecciona los temas que quieras utilizar, y ordenalos en orden de prioridad.</string>
+	<key>SELECT_THEME</key>
+	   <string>Seleccionar Temas</string>
+	<key>COMPA</key>
+	   <string>Compatibilidad para temas diseñados para versiones anteriores de iOS.</string>
+	<key>COMPA_THEME</key>
+	   <string>Modo de Compatibilidad</string>
+    <key>ADVANCE</key>
+	   <string>Ajustes del manejo de los temas avanzados.</string>
+	<key>ADVANCE_THEME</key>
+	   <string>Avanzado</string>
+    <key>TITLE_X</key>
+	   <string>Temas</string>
+</dict>
+</plist>
